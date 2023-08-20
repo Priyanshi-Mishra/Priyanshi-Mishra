@@ -1,3 +1,4 @@
+![logo](https://github.com/Priyanshi-Mishra/Priyanshi-Mishra/blob/main/Untitled%20design.png)
 <h1 align="center">Greetings! I'm Priyanshi Mishra</h1>
 <h3 align="center">Architecting Solutions for Tomorrow's Challenges</h3>
 <img align="right" alt="coding" width="400"src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
