@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400"src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshi-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshi-mishra" /> </p>
 
-- 🌱 I’m currently learning **Flask and various libraries of Python.**
+- 🌱 I’m currently learning **Fundamentals of Shipping Great Products.**
 
-- 💬 Ask me about **advanced technologies.**
+- 💬 Ask me about **a feature i could improve in an app.**
 
 - 📫 How to reach me **priyanshimishra10102004@gmail.com**
 
-- ⚡ Fun fact **I apply perfect eyeliner! 😎✨**
+- ⚡ Fun fact **I apply perfect eyeliner! 😎✨; gotta kidding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
